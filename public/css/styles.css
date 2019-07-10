@@ -1,6 +1,9 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 li{
@@ -43,3 +46,24 @@ li a{
 .navbar{
     margin-bottom: 4%;
 }
+
+
+
+.text{
+    text-align: left;
+    line-height: 2;
+    width: 50%;
+    margin: 100px auto;
+}
+
+
+.food{
+    float: right;
+    width: 50%;
+    margin-left: 30px;
+    position: relative;
+    bottom: 40px;
+
+}
+
+
